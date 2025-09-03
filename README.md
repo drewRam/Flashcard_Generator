@@ -24,8 +24,6 @@ Automatically generate flashcards from your PDF files with LLM (ChatGPT) to help
 
 ## Customization
 
-## Customization
-
 ### Change the instructions for the LLM
 
 You can modify the `instructions` variable in `flashcards.py` to adjust how the questions and answers are generated. For example:
